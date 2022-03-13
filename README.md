@@ -3,7 +3,7 @@
 # Just Another Text Editor
 
 <!-- project shields -->
-
+![demo](./assets/demo.gif)
 
 <!-- toc -->
 <a name="table-of-contents"></a>
@@ -30,34 +30,25 @@ JATE is just another text editor. This program can be used both in and outside o
 This is how you can get started using Just Another Text Editor locally. Begin by following these instructions.
 ### Installation
 
-To install JATE <br> For a dev - Clone the repository, in the root dir, `npm i`. <br> For a user - Go to [JATE](https://blooming-spire-85893.herokuapp.com/) and click the 'Install' button, or use the tool in the browser.
+<br> As a Dev - Clone the repository, in the root dir run `npm i`. <br> As a User - Go to [JATE](https://blooming-spire-85893.herokuapp.com/) and click the 'Install' button, or use the tool in the browser.
 
 <!-- Usage -->
 <a name="Usage"></a>
 ## Usage
 
-To use JATE: <br> As a Dev - In the root dir `npm run start` to begin JATE. The program will operate at localhost:3000. To exit this process crtl+c in terminal and in browser>DevTools>Application Unregister 'Source' to clear localhost service worker.
+To use JATE: <br> As a Dev - In the root dir `npm run start` to begin JATE. The program will operate at localhost:3000. To exit this process crtl+c in terminal and in browser>DevTools>Application Unregister 'Source' to clear localhost service worker. <br>As a User - Go to [JATE](https://blooming-spire-85893.herokuapp.com/) and begin editing text!
 
 <!-- Testing -->
 <a name="testing"></a>
 ## Testing
 
-To test this application follow the installation and usage processes if any errors are to occur reference the contributions section of this document.
+To test this application follow the [installation](#Install) and [usage](#Usage) processes if any errors are to occur reference the [contributions] section of this document.
 
 <!-- Contributing -->
 <a name="Contributing"></a>
 ## Contributing
 
-undefined
-
-script should autogenerate this text depending on user choice
-
-<!-- License -->
-<a name="License"></a>
-
-## License
-
-
+To contribute to this project email me or open an issue on the repository describing your issue(s).
 
 <!-- Contact Me -->
 <a name="contact-me"></a>
